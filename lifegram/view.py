@@ -25,4 +25,4 @@ def sorted_ints(request):
     # return response
 
 def say_hi():
-    return HttpResponse('Oh, hi! Current')
+    return HttpResponse('Oh, hi! Currentt')
